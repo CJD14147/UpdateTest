@@ -42,7 +42,7 @@ public class movementTest extends LinearOpMode {
             telemetry.update();
 
 
-            //robot.rotate(90, 0.5);
+            robot.rotate(90, 0.5);
 
             robot.forwardByEncoder(0.25, 3000, this);
             sleep(1000);
