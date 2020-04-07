@@ -1,0 +1,4 @@
+#Mon Apr 06 16:53:09 MDT 2020
+base.0=C\:\\Users\\boise\\Downloads\\FTC SDK\\SkyStone-5.4 Fresh\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
